@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "homepage": "https://YOUR-USERNAME.github.io/GSM-organized",
+  "homepage": "https://nagarajmt15-sketch.github.io/GSM-organized",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
